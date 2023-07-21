@@ -28,6 +28,8 @@ This will install the Inquirer package which is necessary for the application to
 
 ![Demo](./assets/previews/gif%20readme%20generator.gif)
 
+Please go to assets/preview and download the full HD video preview for higher defintion demo.
+
 To use this application, clone the repository to your local machine:
 
 ```bash
